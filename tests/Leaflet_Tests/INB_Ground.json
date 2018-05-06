@@ -1,0 +1,3775 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_025, c_inb0_027, s_inb0_253, l_inb0_254",
+                "id": "c_inb0_026",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54758270145,
+                    53.22732389798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_210, s_inb1_266",
+                "geometry_type": "Polygon",
+                "id": "s_inb0_273",
+                "level": "0",
+                "name": "INB0273 (Stair 01)",
+                "node_type": "Stairs"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54685177800,
+                            53.22710594365
+                        ],
+                        [
+                            -0.54679188613,
+                            53.22708930648
+                        ],
+                        [
+                            -0.54685197617,
+                            53.22701139729
+                        ],
+                        [
+                            -0.54691202988,
+                            53.22702808044
+                        ],
+                        [
+                            -0.54685177800,
+                            53.22710594365
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_027, c_inb0_030, r_inb0_203",
+                "id": "c_inb0_029",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54738990630,
+                    53.22726352691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_017",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_309",
+                "level": "0",
+                "name": "INB0309 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54767695437,
+                            53.22690515084
+                        ],
+                        [
+                            -0.54759240470,
+                            53.22688189102
+                        ],
+                        [
+                            -0.54766359557,
+                            53.22679078766
+                        ],
+                        [
+                            -0.54774685531,
+                            53.22681395358
+                        ],
+                        [
+                            -0.54767695437,
+                            53.22690515084
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_023, c_inb0_025, r_inb0_109, r_inb0_110",
+                "id": "c_inb0_024",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54774939510,
+                    53.22730436617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_018",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_103",
+                "level": "0",
+                "name": "INB0103 (Schools' Administration Office)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54808811089,
+                            53.22709963506
+                        ],
+                        [
+                            -0.54803811908,
+                            53.22708576201
+                        ],
+                        [
+                            -0.54795518826,
+                            53.22712964959
+                        ],
+                        [
+                            -0.54792370658,
+                            53.22717057054
+                        ],
+                        [
+                            -0.54797472467,
+                            53.22720549578
+                        ],
+                        [
+                            -0.54800190080,
+                            53.22719094383
+                        ],
+                        [
+                            -0.54800940670,
+                            53.22719622245
+                        ],
+                        [
+                            -0.54808437602,
+                            53.22715634182
+                        ],
+                        [
+                            -0.54805866969,
+                            53.22713828749
+                        ],
+                        [
+                            -0.54808811089,
+                            53.22709963506
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_010, s_inb0_159, l_inb0_160, wcm_inb0_163",
+                "id": "c_inb0_011",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54800507112,
+                    53.22684057188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_028",
+                "geometry_type": "Polygon",
+                "id": "wcm_inb0_257",
+                "level": "0",
+                "name": "INB0257 (Male WC)",
+                "node_type": "wcm"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54758600723,
+                            53.22725001285
+                        ],
+                        [
+                            -0.54755372394,
+                            53.22724111322
+                        ],
+                        [
+                            -0.54754413167,
+                            53.22725340040
+                        ],
+                        [
+                            -0.54751456355,
+                            53.22724523178
+                        ],
+                        [
+                            -0.54754639114,
+                            53.22720430805
+                        ],
+                        [
+                            -0.54760835974,
+                            53.22722137030
+                        ],
+                        [
+                            -0.54758600723,
+                            53.22725001285
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_013, c_inb0_015, r_inb0_302",
+                "id": "c_inb0_014",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54787575007,
+                    53.22696806254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54804081543,
+                            53.22673745217
+                        ],
+                        [
+                            -0.54806989233,
+                            53.22672427711
+                        ],
+                        [
+                            -0.54810253999,
+                            53.22671275980
+                        ],
+                        [
+                            -0.54813912287,
+                            53.22670316203
+                        ],
+                        [
+                            -0.54817599716,
+                            53.22669570191
+                        ],
+                        [
+                            -0.54815136574,
+                            53.22664112554
+                        ],
+                        [
+                            -0.54812451246,
+                            53.22664615510
+                        ],
+                        [
+                            -0.54809058862,
+                            53.22665368990
+                        ],
+                        [
+                            -0.54805983583,
+                            53.22666206623
+                        ],
+                        [
+                            -0.54803316371,
+                            53.22667148940
+                        ],
+                        [
+                            -0.54800729270,
+                            53.22668079655
+                        ],
+                        [
+                            -0.54797787103,
+                            53.22669527944
+                        ],
+                        [
+                            -0.54804081543,
+                            53.22673745217
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_002",
+                "id": "c_inb0_001",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54820694849,
+                    53.22705675215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_024",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_110",
+                "level": "0",
+                "name": "INB0110 (Image Engineering Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54773569094,
+                            53.22729869904
+                        ],
+                        [
+                            -0.54769342395,
+                            53.22732064275
+                        ],
+                        [
+                            -0.54764226623,
+                            53.22730659531
+                        ],
+                        [
+                            -0.54766398268,
+                            53.22727880577
+                        ],
+                        [
+                            -0.54773569094,
+                            53.22729869904
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_026",
+                "geometry_type": "Polygon",
+                "id": "l_inb0_254",
+                "level": "0",
+                "name": "INB0254 (Lift)",
+                "node_type": "Lift"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54758819346,
+                            53.22731008532
+                        ],
+                        [
+                            -0.54754818550,
+                            53.22729891717
+                        ],
+                        [
+                            -0.54757667933,
+                            53.22726174815
+                        ],
+                        [
+                            -0.54761678925,
+                            53.22727299482
+                        ],
+                        [
+                            -0.54758819346,
+                            53.22731008532
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_203",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_204",
+                "level": "0",
+                "name": "INB0204",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54741500824,
+                            53.22723942146
+                        ],
+                        [
+                            -0.54746070696,
+                            53.22718050475
+                        ],
+                        [
+                            -0.54754639114,
+                            53.22720430805
+                        ],
+                        [
+                            -0.54751456355,
+                            53.22724523178
+                        ],
+                        [
+                            -0.54750059861,
+                            53.22726318780
+                        ],
+                        [
+                            -0.54741500824,
+                            53.22723942146
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_305",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_307",
+                "level": "0",
+                "name": "INB0307 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54782488910,
+                            53.22694633376
+                        ],
+                        [
+                            -0.54788901844,
+                            53.22696404589
+                        ],
+                        [
+                            -0.54790942323,
+                            53.22693769582
+                        ],
+                        [
+                            -0.54784529378,
+                            53.22691978729
+                        ],
+                        [
+                            -0.54782488910,
+                            53.22694633376
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_015, r_inb0_304",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_303",
+                "level": "0",
+                "name": "INB0303 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54760874407,
+                            53.22693298421
+                        ],
+                        [
+                            -0.54762419334,
+                            53.22691287260
+                        ],
+                        [
+                            -0.54768504334,
+                            53.22692993035
+                        ],
+                        [
+                            -0.54765669526,
+                            53.22696648889
+                        ],
+                        [
+                            -0.54774574766,
+                            53.22699153021
+                        ],
+                        [
+                            -0.54777446012,
+                            53.22695462268
+                        ],
+                        [
+                            -0.54783305102,
+                            53.22697085153
+                        ],
+                        [
+                            -0.54775864633,
+                            53.22706626127
+                        ],
+                        [
+                            -0.54767218221,
+                            53.22704249448
+                        ],
+                        [
+                            -0.54755036236,
+                            53.22700882555
+                        ],
+                        [
+                            -0.54760874407,
+                            53.22693298421
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_013",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_301",
+                "level": "0",
+                "name": "INB0301 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54782503477,
+                            53.22708436599
+                        ],
+                        [
+                            -0.54781337497,
+                            53.22709937331
+                        ],
+                        [
+                            -0.54790599807,
+                            53.22712515610
+                        ],
+                        [
+                            -0.54797085615,
+                            53.22704135092
+                        ],
+                        [
+                            -0.54790621669,
+                            53.22702346432
+                        ],
+                        [
+                            -0.54792691298,
+                            53.22699698341
+                        ],
+                        [
+                            -0.54789856489,
+                            53.22698921800
+                        ],
+                        [
+                            -0.54782503477,
+                            53.22708436599
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54781337497,
+                            53.22709937331
+                        ],
+                        [
+                            -0.54778531831,
+                            53.22709147699
+                        ],
+                        [
+                            -0.54777135583,
+                            53.22710947924
+                        ],
+                        [
+                            -0.54775569489,
+                            53.22712967134
+                        ],
+                        [
+                            -0.54763115607,
+                            53.22709526925
+                        ],
+                        [
+                            -0.54767218221,
+                            53.22704249448
+                        ],
+                        [
+                            -0.54775864633,
+                            53.22706626127
+                        ],
+                        [
+                            -0.54782503477,
+                            53.22708436599
+                        ],
+                        [
+                            -0.54781337497,
+                            53.22709937331
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54702040236,
+                            53.22712622458
+                        ],
+                        [
+                            -0.54700330106,
+                            53.22714833440
+                        ],
+                        [
+                            -0.54693141374,
+                            53.22712832015
+                        ],
+                        [
+                            -0.54694848877,
+                            53.22710633023
+                        ],
+                        [
+                            -0.54702040236,
+                            53.22712622458
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_026, c_inb0_028, c_inb0_029",
+                "id": "c_inb0_027",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54752693916,
+                    53.22729939444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.54740004450,
+                        53.22728766083
+                    ],
+                    [
+                        -0.54740972984,
+                        53.22727546330
+                    ],
+                    [
+                        -0.54751698696,
+                        53.22730509807
+                    ],
+                    [
+                        -0.54750780375,
+                        53.22731755324
+                    ],
+                    [
+                        -0.54746224886,
+                        53.22730491632
+                    ],
+                    [
+                        -0.54740004450,
+                        53.22728766083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_029, c_inb0_031, r_inb0_209, r_inb0_208, r_inb0_206, c_inb0_033",
+                "id": "c_inb0_030",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54719711116,
+                    53.22721025824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_114",
+                "geometry_type": "Polygon",
+                "id": "wcf_inb0_166",
+                "level": "0",
+                "name": "INB0166 (Female WC)",
+                "node_type": "wcf"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54844670552,
+                            53.22665757493
+                        ],
+                        [
+                            -0.54841721885,
+                            53.22669655530
+                        ],
+                        [
+                            -0.54838508742,
+                            53.22668851964
+                        ],
+                        [
+                            -0.54837765665,
+                            53.22670037807
+                        ],
+                        [
+                            -0.54836557309,
+                            53.22669805443
+                        ],
+                        [
+                            -0.54835470073,
+                            53.22669637123
+                        ],
+                        [
+                            -0.54832451723,
+                            53.22669226767
+                        ],
+                        [
+                            -0.54829944636,
+                            53.22668982604
+                        ],
+                        [
+                            -0.54828269418,
+                            53.22668886617
+                        ],
+                        [
+                            -0.54826679855,
+                            53.22668928890
+                        ],
+                        [
+                            -0.54825021955,
+                            53.22668937609
+                        ],
+                        [
+                            -0.54823396885,
+                            53.22669005245
+                        ],
+                        [
+                            -0.54821877435,
+                            53.22669081578
+                        ],
+                        [
+                            -0.54820398095,
+                            53.22669208098
+                        ],
+                        [
+                            -0.54817599716,
+                            53.22669570191
+                        ],
+                        [
+                            -0.54815136574,
+                            53.22664112554
+                        ],
+                        [
+                            -0.54817567425,
+                            53.22663805645
+                        ],
+                        [
+                            -0.54819785951,
+                            53.22663580314
+                        ],
+                        [
+                            -0.54821622397,
+                            53.22663431993
+                        ],
+                        [
+                            -0.54823633712,
+                            53.22663344732
+                        ],
+                        [
+                            -0.54825572181,
+                            53.22663292389
+                        ],
+                        [
+                            -0.54827525197,
+                            53.22663292380
+                        ],
+                        [
+                            -0.54829667700,
+                            53.22663370907
+                        ],
+                        [
+                            -0.54831795628,
+                            53.22663501786
+                        ],
+                        [
+                            -0.54833865461,
+                            53.22663685299
+                        ],
+                        [
+                            -0.54836488729,
+                            53.22664042752
+                        ],
+                        [
+                            -0.54839155927,
+                            53.22664513915
+                        ],
+                        [
+                            -0.54841779400,
+                            53.22665054881
+                        ],
+                        [
+                            -0.54843505605,
+                            53.22665424954
+                        ],
+                        [
+                            -0.54844670552,
+                            53.22665757493
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_016, r_inb0_309, s_inb0_357",
+                "id": "c_inb0_017",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54761176902,
+                    53.22689703715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_022",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_106",
+                "level": "0",
+                "name": "INB0106 (Image Engineering Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54792370658,
+                            53.22717057054
+                        ],
+                        [
+                            -0.54788726946,
+                            53.22721803529
+                        ],
+                        [
+                            -0.54791511034,
+                            53.22723741733
+                        ],
+                        [
+                            -0.54797472467,
+                            53.22720549578
+                        ],
+                        [
+                            -0.54792370658,
+                            53.22717057054
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_008, c_inb0_013, c_inb0_018, c_inb0_019",
+                "id": "c_inb0_012",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54807329064,
+                    53.22703642419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_028",
+                "geometry_type": "Polygon",
+                "id": "wcd_inb0_258",
+                "level": "0",
+                "name": "INB0258 (Disabled WC)",
+                "node_type": "wcd"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54754413167,
+                            53.22725340040
+                        ],
+                        [
+                            -0.54753025843,
+                            53.22727117128
+                        ],
+                        [
+                            -0.54750059861,
+                            53.22726318780
+                        ],
+                        [
+                            -0.54751456355,
+                            53.22724523178
+                        ],
+                        [
+                            -0.54754413167,
+                            53.22725340040
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_014, c_inb0_016, r_inb0_303, r_inb0_305",
+                "id": "c_inb0_015",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54781346241,
+                    53.22695137159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_030",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_206",
+                "level": "0",
+                "name": "INB0206 (Training Facilities)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54703776829,
+                            53.22730656161
+                        ],
+                        [
+                            -0.54732412232,
+                            53.22738604932
+                        ],
+                        [
+                            -0.54740004450,
+                            53.22728766083
+                        ],
+                        [
+                            -0.54711335712,
+                            53.22720760462
+                        ],
+                        [
+                            -0.54703776829,
+                            53.22730656161
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_001, c_inb0_003, c_inb0_008",
+                "id": "c_inb0_002",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54822871349,
+                    53.22702736865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_030",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_209",
+                "level": "0",
+                "name": "INB0209 (Training Facilities)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54723991225,
+                            53.22716542811
+                        ],
+                        [
+                            -0.54722133052,
+                            53.22716031714
+                        ],
+                        [
+                            -0.54725083301,
+                            53.22712220114
+                        ],
+                        [
+                            -0.54737319852,
+                            53.22715619466
+                        ],
+                        [
+                            -0.54734396910,
+                            53.22719416543
+                        ],
+                        [
+                            -0.54723991225,
+                            53.22716542811
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54750059861,
+                            53.22726318780
+                        ],
+                        [
+                            -0.54748609664,
+                            53.22728207769
+                        ],
+                        [
+                            -0.54751568358,
+                            53.22729014842
+                        ],
+                        [
+                            -0.54753025843,
+                            53.22727117128
+                        ],
+                        [
+                            -0.54750059861,
+                            53.22726318780
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_203",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_205",
+                "level": "0",
+                "name": "INB0205",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54741500824,
+                            53.22723942146
+                        ],
+                        [
+                            -0.54732777729,
+                            53.22721519956
+                        ],
+                        [
+                            -0.54734396910,
+                            53.22719416543
+                        ],
+                        [
+                            -0.54737319852,
+                            53.22715619466
+                        ],
+                        [
+                            -0.54746070696,
+                            53.22718050475
+                        ],
+                        [
+                            -0.54741500824,
+                            53.22723942146
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54790942323,
+                            53.22693769582
+                        ],
+                        [
+                            -0.54792494537,
+                            53.22691758420
+                        ],
+                        [
+                            -0.54808505010,
+                            53.22696203905
+                        ],
+                        [
+                            -0.54804875872,
+                            53.22700871877
+                        ],
+                        [
+                            -0.54788901844,
+                            53.22696404589
+                        ],
+                        [
+                            -0.54790942323,
+                            53.22693769582
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_303",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_304",
+                "level": "0",
+                "name": "INB0304 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54777446012,
+                            53.22695462268
+                        ],
+                        [
+                            -0.54774574766,
+                            53.22699153021
+                        ],
+                        [
+                            -0.54765669526,
+                            53.22696648889
+                        ],
+                        [
+                            -0.54768504334,
+                            53.22692993035
+                        ],
+                        [
+                            -0.54777446012,
+                            53.22695462268
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_013",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_351",
+                "level": "0",
+                "name": "INB0351 (Shower Room)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54797085615,
+                            53.22704135092
+                        ],
+                        [
+                            -0.54790621669,
+                            53.22702346432
+                        ],
+                        [
+                            -0.54792691298,
+                            53.22699698341
+                        ],
+                        [
+                            -0.54799137021,
+                            53.22701480456
+                        ],
+                        [
+                            -0.54797085615,
+                            53.22704135092
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_030, c_inb0_031",
+                "id": "c_inb0_033",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54712113153,
+                    53.22719023029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_021",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_104",
+                "level": "0",
+                "name": "INB0104",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54777135583,
+                            53.22710947924
+                        ],
+                        [
+                            -0.54779107537,
+                            53.22711503492
+                        ],
+                        [
+                            -0.54770224166,
+                            53.22722911617
+                        ],
+                        [
+                            -0.54755823018,
+                            53.22718907872
+                        ],
+                        [
+                            -0.54763115607,
+                            53.22709526925
+                        ],
+                        [
+                            -0.54775569489,
+                            53.22712967134
+                        ],
+                        [
+                            -0.54777135583,
+                            53.22710947924
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_210",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_211",
+                "level": "0",
+                "name": "INB0211 (Training Facilities)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54693141374,
+                            53.22712832015
+                        ],
+                        [
+                            -0.54685177800,
+                            53.22710594365
+                        ],
+                        [
+                            -0.54691202988,
+                            53.22702808044
+                        ],
+                        [
+                            -0.54699181676,
+                            53.22705024553
+                        ],
+                        [
+                            -0.54694848877,
+                            53.22710633023
+                        ],
+                        [
+                            -0.54693141374,
+                            53.22712832015
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_027, wcd_inb0_258, wcm_inb0_257, wcf_inb0_256",
+                "id": "c_inb0_028",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54755482030,
+                    53.22726139616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_201",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_202",
+                "level": "0",
+                "name": "INB0202 (Lounge/Meeting Room)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54740004450,
+                            53.22728766083
+                        ],
+                        [
+                            -0.54732412232,
+                            53.22738604932
+                        ],
+                        [
+                            -0.54738581522,
+                            53.22740317436
+                        ],
+                        [
+                            -0.54746224886,
+                            53.22730491632
+                        ],
+                        [
+                            -0.54740004450,
+                            53.22728766083
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_030, r_inb0_210, r_inb0_212, c_inb0_033, c_inb0_032",
+                "id": "c_inb0_031",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54701024817,
+                    53.22716125101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "id": "wcm_inb0_163",
+                "level": "0",
+                "name": "INB0163 (Male WC)",
+                "node_type": "wcm",
+                "connected_nodes": "c_inb0_011"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54797787103,
+                            53.22669527944
+                        ],
+                        [
+                            -0.54804081543,
+                            53.22673745217
+                        ],
+                        [
+                            -0.54802675070,
+                            53.22674486861
+                        ],
+                        [
+                            -0.54801334191,
+                            53.22675289587
+                        ],
+                        [
+                            -0.54800037022,
+                            53.22676183918
+                        ],
+                        [
+                            -0.54798841892,
+                            53.22677121884
+                        ],
+                        [
+                            -0.54797719621,
+                            53.22678029303
+                        ],
+                        [
+                            -0.54796670239,
+                            53.22679093785
+                        ],
+                        [
+                            -0.54795744729,
+                            53.22680075368
+                        ],
+                        [
+                            -0.54794921250,
+                            53.22681026417
+                        ],
+                        [
+                            -0.54787240727,
+                            53.22678899786
+                        ],
+                        [
+                            -0.54786360222,
+                            53.22678651693
+                        ],
+                        [
+                            -0.54789345018,
+                            53.22675291701
+                        ],
+                        [
+                            -0.54792458122,
+                            53.22672750553
+                        ],
+                        [
+                            -0.54794425727,
+                            53.22671406867
+                        ],
+                        [
+                            -0.54797787103,
+                            53.22669527944
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_012, r_inb0_102, r_inb0_103",
+                "id": "c_inb0_018",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54809049420,
+                    53.22707637604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_011, s_inb1_159",
+                "geometry_type": "Polygon",
+                "id": "s_inb0_159",
+                "level": "0",
+                "name": "INB0159 (Stair 05)",
+                "node_type": "Stairs"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54802753951,
+                            53.22683186827
+                        ],
+                        [
+                            -0.54800773052,
+                            53.22685690043
+                        ],
+                        [
+                            -0.54808494075,
+                            53.22687832078
+                        ],
+                        [
+                            -0.54810435960,
+                            53.22685305673
+                        ],
+                        [
+                            -0.54802753951,
+                            53.22683186827
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_020, r_inb0_108, r_inb0_104",
+                "id": "c_inb0_021",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54780871668,
+                    53.22710762709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_031, r_inb0_211, s_inb0_273",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_210",
+                "level": "0",
+                "name": "INB0210 (Training Facilities)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54700330106,
+                            53.22714833440
+                        ],
+                        [
+                            -0.54698507827,
+                            53.22717221414
+                        ],
+                        [
+                            -0.54711335712,
+                            53.22720760462
+                        ],
+                        [
+                            -0.54703776829,
+                            53.22730656161
+                        ],
+                        [
+                            -0.54669722922,
+                            53.22721203273
+                        ],
+                        [
+                            -0.54679188613,
+                            53.22708930648
+                        ],
+                        [
+                            -0.54685177800,
+                            53.22710594365
+                        ],
+                        [
+                            -0.54693141374,
+                            53.22712832015
+                        ],
+                        [
+                            -0.54700330106,
+                            53.22714833440
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_015, c_inb0_017, r_inb0_308",
+                "id": "c_inb0_016",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54771558179,
+                    53.22692473707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_011, l_inb1_160",
+                "geometry_type": "Polygon",
+                "id": "l_inb0_160",
+                "level": "0",
+                "name": "INB0160 (Lift)",
+                "node_type": "Lift"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54794425712,
+                            53.22684014807
+                        ],
+                        [
+                            -0.54798059558,
+                            53.22685013822
+                        ],
+                        [
+                            -0.54795990169,
+                            53.22687664309
+                        ],
+                        [
+                            -0.54792385233,
+                            53.22686667270
+                        ],
+                        [
+                            -0.54794425712,
+                            53.22684014807
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_002, c_inb0_009, r_inb0_114",
+                "id": "c_inb0_003",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54838354282,
+                    53.22682956292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "geometry_type": "Polygon",
+                "node_type": "Block",
+                "level": "0",
+                "building": "INB"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54722133052,
+                            53.22716031714
+                        ],
+                        [
+                            -0.54719112644,
+                            53.22719987321
+                        ],
+                        [
+                            -0.54715238476,
+                            53.22718922186
+                        ],
+                        [
+                            -0.54721222553,
+                            53.22711147586
+                        ],
+                        [
+                            -0.54725083301,
+                            53.22712220114
+                        ],
+                        [
+                            -0.54722133052,
+                            53.22716031714
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_021",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_108",
+                "level": "0",
+                "name": "INB0108 (Image Engineering Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54769054852,
+                            53.22724399992
+                        ],
+                        [
+                            -0.54768023364,
+                            53.22725769097
+                        ],
+                        [
+                            -0.54776775569,
+                            53.22728199048
+                        ],
+                        [
+                            -0.54778853771,
+                            53.22727097995
+                        ],
+                        [
+                            -0.54779697819,
+                            53.22726654697
+                        ],
+                        [
+                            -0.54787626537,
+                            53.22716324137
+                        ],
+                        [
+                            -0.54784186873,
+                            53.22715364371
+                        ],
+                        [
+                            -0.54785753669,
+                            53.22713340137
+                        ],
+                        [
+                            -0.54779107537,
+                            53.22711503492
+                        ],
+                        [
+                            -0.54770224166,
+                            53.22722911617
+                        ],
+                        [
+                            -0.54769054852,
+                            53.22724399992
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_015, r_inb0_307",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_305",
+                "level": "0",
+                "name": "INB0305 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54784529378,
+                            53.22691978729
+                        ],
+                        [
+                            -0.54782488910,
+                            53.22694633376
+                        ],
+                        [
+                            -0.54776622525,
+                            53.22693001760
+                        ],
+                        [
+                            -0.54778663004,
+                            53.22690371114
+                        ],
+                        [
+                            -0.54784529378,
+                            53.22691978729
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54808505010,
+                            53.22696203905
+                        ],
+                        [
+                            -0.54810703891,
+                            53.22693376411
+                        ],
+                        [
+                            -0.54811755209,
+                            53.22692024543
+                        ],
+                        [
+                            -0.54795990169,
+                            53.22687664309
+                        ],
+                        [
+                            -0.54792385233,
+                            53.22686667270
+                        ],
+                        [
+                            -0.54794425712,
+                            53.22684014807
+                        ],
+                        [
+                            -0.54785227763,
+                            53.22681453367
+                        ],
+                        [
+                            -0.54783368946,
+                            53.22683811401
+                        ],
+                        [
+                            -0.54783644361,
+                            53.22683888097
+                        ],
+                        [
+                            -0.54789524919,
+                            53.22685522087
+                        ],
+                        [
+                            -0.54784529378,
+                            53.22691978729
+                        ],
+                        [
+                            -0.54790942323,
+                            53.22693769582
+                        ],
+                        [
+                            -0.54792494537,
+                            53.22691758420
+                        ],
+                        [
+                            -0.54808505010,
+                            53.22696203905
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54770224166,
+                            53.22722911617
+                        ],
+                        [
+                            -0.54769054852,
+                            53.22724399992
+                        ],
+                        [
+                            -0.54764814486,
+                            53.22723232462
+                        ],
+                        [
+                            -0.54760835974,
+                            53.22722137030
+                        ],
+                        [
+                            -0.54754639114,
+                            53.22720430805
+                        ],
+                        [
+                            -0.54755823018,
+                            53.22718907872
+                        ],
+                        [
+                            -0.54770224166,
+                            53.22722911617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_025, r_inb0_202",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_201",
+                "level": "0",
+                "name": "INB0201 (Lounge/Meeting Room)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54746224886,
+                            53.22730491632
+                        ],
+                        [
+                            -0.54750780375,
+                            53.22731755324
+                        ],
+                        [
+                            -0.54768590740,
+                            53.22736686154
+                        ],
+                        [
+                            -0.54753855916,
+                            53.22744557378
+                        ],
+                        [
+                            -0.54738581522,
+                            53.22740317436
+                        ],
+                        [
+                            -0.54746224886,
+                            53.22730491632
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_031, r_inb0_268",
+                "id": "c_inb0_032",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54702596810,
+                    53.22714047601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_114",
+                "level": "0",
+                "name": "INB0114 (Lecture Theatre)",
+                "node_type": "Room",
+                "connected_nodes": "c_inb0_003, wcf_inb0_166, wcd_inb0_167"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54794921250,
+                            53.22681026417
+                        ],
+                        [
+                            -0.54795744729,
+                            53.22680075368
+                        ],
+                        [
+                            -0.54796670239,
+                            53.22679093785
+                        ],
+                        [
+                            -0.54797719621,
+                            53.22678029303
+                        ],
+                        [
+                            -0.54798841892,
+                            53.22677121884
+                        ],
+                        [
+                            -0.54800037022,
+                            53.22676183918
+                        ],
+                        [
+                            -0.54801334191,
+                            53.22675289587
+                        ],
+                        [
+                            -0.54802675070,
+                            53.22674486861
+                        ],
+                        [
+                            -0.54804081543,
+                            53.22673745217
+                        ],
+                        [
+                            -0.54806989233,
+                            53.22672427711
+                        ],
+                        [
+                            -0.54810253999,
+                            53.22671275980
+                        ],
+                        [
+                            -0.54813912287,
+                            53.22670316203
+                        ],
+                        [
+                            -0.54817599716,
+                            53.22669570191
+                        ],
+                        [
+                            -0.54820398095,
+                            53.22669208098
+                        ],
+                        [
+                            -0.54821877435,
+                            53.22669081578
+                        ],
+                        [
+                            -0.54823396885,
+                            53.22669005245
+                        ],
+                        [
+                            -0.54825021955,
+                            53.22668937609
+                        ],
+                        [
+                            -0.54826679855,
+                            53.22668928890
+                        ],
+                        [
+                            -0.54828269418,
+                            53.22668886617
+                        ],
+                        [
+                            -0.54829944636,
+                            53.22668982604
+                        ],
+                        [
+                            -0.54832451723,
+                            53.22669226767
+                        ],
+                        [
+                            -0.54835470073,
+                            53.22669637123
+                        ],
+                        [
+                            -0.54836557309,
+                            53.22669805443
+                        ],
+                        [
+                            -0.54837765665,
+                            53.22670037807
+                        ],
+                        [
+                            -0.54839355319,
+                            53.22670423915
+                        ],
+                        [
+                            -0.54840789215,
+                            53.22670832346
+                        ],
+                        [
+                            -0.54841721885,
+                            53.22669655530
+                        ],
+                        [
+                            -0.54844670552,
+                            53.22665757493
+                        ],
+                        [
+                            -0.54845612586,
+                            53.22666049559
+                        ],
+                        [
+                            -0.54846822298,
+                            53.22666590525
+                        ],
+                        [
+                            -0.54847725939,
+                            53.22667148940
+                        ],
+                        [
+                            -0.54848518910,
+                            53.22667883338
+                        ],
+                        [
+                            -0.54849139699,
+                            53.22668501353
+                        ],
+                        [
+                            -0.54849620669,
+                            53.22669286625
+                        ],
+                        [
+                            -0.54850291112,
+                            53.22670944421
+                        ],
+                        [
+                            -0.54850724707,
+                            53.22673675760
+                        ],
+                        [
+                            -0.54844973980,
+                            53.22672086089
+                        ],
+                        [
+                            -0.54835211799,
+                            53.22684627197
+                        ],
+                        [
+                            -0.54831081453,
+                            53.22683447664
+                        ],
+                        [
+                            -0.54829055570,
+                            53.22683017960
+                        ],
+                        [
+                            -0.54826883918,
+                            53.22682867450
+                        ],
+                        [
+                            -0.54824544654,
+                            53.22682928527
+                        ],
+                        [
+                            -0.54822292840,
+                            53.22683281898
+                        ],
+                        [
+                            -0.54820186774,
+                            53.22683905750
+                        ],
+                        [
+                            -0.54818459654,
+                            53.22684686657
+                        ],
+                        [
+                            -0.54817147918,
+                            53.22685611529
+                        ],
+                        [
+                            -0.54815894459,
+                            53.22686811232
+                        ],
+                        [
+                            -0.54810435960,
+                            53.22685305673
+                        ],
+                        [
+                            -0.54802753951,
+                            53.22683186827
+                        ],
+                        [
+                            -0.54794921250,
+                            53.22681026417
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "geometry_type": "Polygon",
+                "node_type": "Block",
+                "level": "0",
+                "building": "INB"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54808494075,
+                            53.22687832078
+                        ],
+                        [
+                            -0.54810435960,
+                            53.22685305673
+                        ],
+                        [
+                            -0.54815894459,
+                            53.22686811232
+                        ],
+                        [
+                            -0.54813919560,
+                            53.22689346117
+                        ],
+                        [
+                            -0.54808494075,
+                            53.22687832078
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_012, c_inb0_012, c_inb0_020",
+                "id": "c_inb0_019",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54796591887,
+                    53.22709093619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_306",
+                "level": "0",
+                "name": "INB0306 (Labs and Workshops)",
+                "node_type": "Room",
+                "connected_nodes": "r_inb0_308"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54783644361,
+                            53.22683888097
+                        ],
+                        [
+                            -0.54789524919,
+                            53.22685522087
+                        ],
+                        [
+                            -0.54784529378,
+                            53.22691978729
+                        ],
+                        [
+                            -0.54778663004,
+                            53.22690371114
+                        ],
+                        [
+                            -0.54783644361,
+                            53.22683888097
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "r_inb0_106, c_inb0_023, c_inb0_020",
+                "id": "c_inb0_022",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54787278399,
+                    53.22719676350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "geometry_type": "Polygon",
+                "node_type": "Stairs",
+                "level": "0",
+                "name": "(Stair 06)",
+                "id": "s_inb0_006",
+                "building": "INB",
+                "connected_nodes": "s_inb0_006"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54804875872,
+                            53.22700871877
+                        ],
+                        [
+                            -0.54807637806,
+                            53.22701630967
+                        ],
+                        [
+                            -0.54813475041,
+                            53.22694109864
+                        ],
+                        [
+                            -0.54810703891,
+                            53.22693376411
+                        ],
+                        [
+                            -0.54808505010,
+                            53.22696203905
+                        ],
+                        [
+                            -0.54804875872,
+                            53.22700871877
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_008, c_inb0_010, c_inb0_003",
+                "id": "c_inb0_009",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54820083234,
+                    53.22692509219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_030",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_208",
+                "level": "0",
+                "name": "INB0208 (Training Facilities)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54731312957,
+                            53.22723380591
+                        ],
+                        [
+                            -0.54720963635,
+                            53.22720494119
+                        ],
+                        [
+                            -0.54723991225,
+                            53.22716542811
+                        ],
+                        [
+                            -0.54734396910,
+                            53.22719416543
+                        ],
+                        [
+                            -0.54732777729,
+                            53.22721519956
+                        ],
+                        [
+                            -0.54731312957,
+                            53.22723380591
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "s_inb1_263, c_inb0_033",
+                "geometry_type": "Polygon",
+                "id": "s_inb0_267",
+                "level": "0",
+                "name": "INB0267 (Stair 02)",
+                "node_type": "Stairs"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54715238476,
+                            53.22718922186
+                        ],
+                        [
+                            -0.54710273803,
+                            53.22717539228
+                        ],
+                        [
+                            -0.54716284575,
+                            53.22709775799
+                        ],
+                        [
+                            -0.54721222553,
+                            53.22711147586
+                        ],
+                        [
+                            -0.54715238476,
+                            53.22718922186
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_020",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_105",
+                "level": "0",
+                "name": "INB0105 (First Aid Room)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54787626537,
+                            53.22716324137
+                        ],
+                        [
+                            -0.54784186873,
+                            53.22715364371
+                        ],
+                        [
+                            -0.54785753669,
+                            53.22713340137
+                        ],
+                        [
+                            -0.54789207916,
+                            53.22714308633
+                        ],
+                        [
+                            -0.54787626537,
+                            53.22716324137
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "level": "0",
+                "node_type": "Block"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54764226623,
+                            53.22730659531
+                        ],
+                        [
+                            -0.54763038765,
+                            53.22732190785
+                        ],
+                        [
+                            -0.54766995837,
+                            53.22733294511
+                        ],
+                        [
+                            -0.54769342395,
+                            53.22732064275
+                        ],
+                        [
+                            -0.54764226623,
+                            53.22730659531
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54766359557,
+                            53.22679078766
+                        ],
+                        [
+                            -0.54759240470,
+                            53.22688189102
+                        ],
+                        [
+                            -0.54756251599,
+                            53.22692013971
+                        ],
+                        [
+                            -0.54750336440,
+                            53.22699583611
+                        ],
+                        [
+                            -0.54755036236,
+                            53.22700882555
+                        ],
+                        [
+                            -0.54767218221,
+                            53.22704249448
+                        ],
+                        [
+                            -0.54763115607,
+                            53.22709526925
+                        ],
+                        [
+                            -0.54755823018,
+                            53.22718907872
+                        ],
+                        [
+                            -0.54754639114,
+                            53.22720430805
+                        ],
+                        [
+                            -0.54760835974,
+                            53.22722137030
+                        ],
+                        [
+                            -0.54764814486,
+                            53.22723232462
+                        ],
+                        [
+                            -0.54769054852,
+                            53.22724399992
+                        ],
+                        [
+                            -0.54778853771,
+                            53.22727097995
+                        ],
+                        [
+                            -0.54783925509,
+                            53.22728494430
+                        ],
+                        [
+                            -0.54783203121,
+                            53.22728190349
+                        ],
+                        [
+                            -0.54791511034,
+                            53.22723741733
+                        ],
+                        [
+                            -0.54797472467,
+                            53.22720549578
+                        ],
+                        [
+                            -0.54800190080,
+                            53.22719094383
+                        ],
+                        [
+                            -0.54800940670,
+                            53.22719622245
+                        ],
+                        [
+                            -0.54808437602,
+                            53.22715634182
+                        ],
+                        [
+                            -0.54812454802,
+                            53.22713497194
+                        ],
+                        [
+                            -0.54811347215,
+                            53.22712738167
+                        ],
+                        [
+                            -0.54812670873,
+                            53.22711018546
+                        ],
+                        [
+                            -0.54817469084,
+                            53.22704784978
+                        ],
+                        [
+                            -0.54820694849,
+                            53.22705675215
+                        ],
+                        [
+                            -0.54824191676,
+                            53.22706640259
+                        ],
+                        [
+                            -0.54831540988,
+                            53.22702698221
+                        ],
+                        [
+                            -0.54837173762,
+                            53.22699676541
+                        ],
+                        [
+                            -0.54842726809,
+                            53.22696430790
+                        ],
+                        [
+                            -0.54844912993,
+                            53.22694807879
+                        ],
+                        [
+                            -0.54847142959,
+                            53.22692940697
+                        ],
+                        [
+                            -0.54848986656,
+                            53.22691077855
+                        ],
+                        [
+                            -0.54850627946,
+                            53.22689108587
+                        ],
+                        [
+                            -0.54852331606,
+                            53.22686571302
+                        ],
+                        [
+                            -0.54853847420,
+                            53.22683674550
+                        ],
+                        [
+                            -0.54854634418,
+                            53.22681118036
+                        ],
+                        [
+                            -0.54854974395,
+                            53.22678462566
+                        ],
+                        [
+                            -0.54855064369,
+                            53.22676371511
+                        ],
+                        [
+                            -0.54854893922,
+                            53.22674805472
+                        ],
+                        [
+                            -0.54850724707,
+                            53.22673675760
+                        ],
+                        [
+                            -0.54850291112,
+                            53.22670944421
+                        ],
+                        [
+                            -0.54849620669,
+                            53.22669286625
+                        ],
+                        [
+                            -0.54849139699,
+                            53.22668501353
+                        ],
+                        [
+                            -0.54848518910,
+                            53.22667883338
+                        ],
+                        [
+                            -0.54847725939,
+                            53.22667148940
+                        ],
+                        [
+                            -0.54846822298,
+                            53.22666590525
+                        ],
+                        [
+                            -0.54845612586,
+                            53.22666049559
+                        ],
+                        [
+                            -0.54844670552,
+                            53.22665757493
+                        ],
+                        [
+                            -0.54843505605,
+                            53.22665424954
+                        ],
+                        [
+                            -0.54841779400,
+                            53.22665054881
+                        ],
+                        [
+                            -0.54839155927,
+                            53.22664513915
+                        ],
+                        [
+                            -0.54836488729,
+                            53.22664042752
+                        ],
+                        [
+                            -0.54833865461,
+                            53.22663685299
+                        ],
+                        [
+                            -0.54831795628,
+                            53.22663501786
+                        ],
+                        [
+                            -0.54829667700,
+                            53.22663370907
+                        ],
+                        [
+                            -0.54827525197,
+                            53.22663292380
+                        ],
+                        [
+                            -0.54825572181,
+                            53.22663292389
+                        ],
+                        [
+                            -0.54823633712,
+                            53.22663344732
+                        ],
+                        [
+                            -0.54821622397,
+                            53.22663431993
+                        ],
+                        [
+                            -0.54819785951,
+                            53.22663580314
+                        ],
+                        [
+                            -0.54817567425,
+                            53.22663805645
+                        ],
+                        [
+                            -0.54815136574,
+                            53.22664112554
+                        ],
+                        [
+                            -0.54812451246,
+                            53.22664615510
+                        ],
+                        [
+                            -0.54809058862,
+                            53.22665368990
+                        ],
+                        [
+                            -0.54805983583,
+                            53.22666206623
+                        ],
+                        [
+                            -0.54803316371,
+                            53.22667148940
+                        ],
+                        [
+                            -0.54800729270,
+                            53.22668079655
+                        ],
+                        [
+                            -0.54797787103,
+                            53.22669527944
+                        ],
+                        [
+                            -0.54794425727,
+                            53.22671406867
+                        ],
+                        [
+                            -0.54792458122,
+                            53.22672750553
+                        ],
+                        [
+                            -0.54789345018,
+                            53.22675291701
+                        ],
+                        [
+                            -0.54786360222,
+                            53.22678651693
+                        ],
+                        [
+                            -0.54787240727,
+                            53.22678899786
+                        ],
+                        [
+                            -0.54785227763,
+                            53.22681453367
+                        ],
+                        [
+                            -0.54783368946,
+                            53.22683811401
+                        ],
+                        [
+                            -0.54774685531,
+                            53.22681395358
+                        ],
+                        [
+                            -0.54766359557,
+                            53.22679078766
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_031",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_212",
+                "level": "0",
+                "name": "INB0212 (Lab)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54710273803,
+                            53.22717539228
+                        ],
+                        [
+                            -0.54702274357,
+                            53.22715310170
+                        ],
+                        [
+                            -0.54703940974,
+                            53.22713148282
+                        ],
+                        [
+                            -0.54708259502,
+                            53.22707546406
+                        ],
+                        [
+                            -0.54716284575,
+                            53.22709775799
+                        ],
+                        [
+                            -0.54710273803,
+                            53.22717539228
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_024, c_inb0_026, r_inb0_201",
+                "id": "c_inb0_025",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54766753131,
+                    53.22734627077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_019, c_inb0_021, c_inb0_022, r_inb0_105",
+                "id": "c_inb0_020",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54792083447,
+                    53.22713568200
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_016, r_inb0_306",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_308",
+                "level": "0",
+                "name": "INB0308 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54783368946,
+                            53.22683811401
+                        ],
+                        [
+                            -0.54783644361,
+                            53.22683888097
+                        ],
+                        [
+                            -0.54778663004,
+                            53.22690371114
+                        ],
+                        [
+                            -0.54776622525,
+                            53.22693001760
+                        ],
+                        [
+                            -0.54767695437,
+                            53.22690515084
+                        ],
+                        [
+                            -0.54774685531,
+                            53.22681395358
+                        ],
+                        [
+                            -0.54783368946,
+                            53.22683811401
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_022, c_inb0_024",
+                "id": "c_inb0_023",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54779981844,
+                    53.22728128311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_018",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_102",
+                "level": "0",
+                "name": "INB0102 (Consultation Room)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54812454802,
+                            53.22713497194
+                        ],
+                        [
+                            -0.54811347215,
+                            53.22712738167
+                        ],
+                        [
+                            -0.54812670873,
+                            53.22711018546
+                        ],
+                        [
+                            -0.54808811089,
+                            53.22709963506
+                        ],
+                        [
+                            -0.54805866969,
+                            53.22713828749
+                        ],
+                        [
+                            -0.54808437602,
+                            53.22715634182
+                        ],
+                        [
+                            -0.54812454802,
+                            53.22713497194
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_009, c_inb0_011",
+                "id": "c_inb0_010",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54798608821,
+                    53.22686649620
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_028",
+                "geometry_type": "Polygon",
+                "id": "wcf_inb0_256",
+                "level": "0",
+                "name": "INB0256 (Female WC)",
+                "node_type": "wcf"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54758600723,
+                            53.22725001285
+                        ],
+                        [
+                            -0.54760835974,
+                            53.22722137030
+                        ],
+                        [
+                            -0.54764814486,
+                            53.22723232462
+                        ],
+                        [
+                            -0.54761678925,
+                            53.22727299482
+                        ],
+                        [
+                            -0.54757667933,
+                            53.22726174815
+                        ],
+                        [
+                            -0.54758600723,
+                            53.22725001285
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_012, c_inb0_014, r_inb0_351, r_inb0_301",
+                "id": "c_inb0_013",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54793625808,
+                    53.22698759450
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "geometry_type": "Polygon",
+                "id": "wcd_inb0_167",
+                "level": "0",
+                "name": "INB0167 (Disabled WC)",
+                "node_type": "wcd",
+                "connected_nodes": "r_inb0_114"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54838508742,
+                            53.22668851964
+                        ],
+                        [
+                            -0.54837765665,
+                            53.22670037807
+                        ],
+                        [
+                            -0.54839355319,
+                            53.22670423915
+                        ],
+                        [
+                            -0.54840789215,
+                            53.22670832346
+                        ],
+                        [
+                            -0.54841721885,
+                            53.22669655530
+                        ],
+                        [
+                            -0.54838508742,
+                            53.22668851964
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME_CORRIDOR": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_002, c_inb0_009, c_inb0_012",
+                "id": "c_inb0_008",
+                "level": "0",
+                "node_type": "corridor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54814091754,
+                    53.22699824830
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_024",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_109",
+                "level": "0",
+                "name": "INB0109 (Image Engineering Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54768023364,
+                            53.22725769097
+                        ],
+                        [
+                            -0.54766398268,
+                            53.22727880577
+                        ],
+                        [
+                            -0.54773569094,
+                            53.22729869904
+                        ],
+                        [
+                            -0.54776775569,
+                            53.22728199048
+                        ],
+                        [
+                            -0.54768023364,
+                            53.22725769097
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_026, s_inb1_253",
+                "geometry_type": "Polygon",
+                "id": "s_inb0_253",
+                "level": "0",
+                "name": "INB0253 (Stair 03)",
+                "node_type": "Stairs"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54763038765,
+                            53.22732190785
+                        ],
+                        [
+                            -0.54758819346,
+                            53.22731008532
+                        ],
+                        [
+                            -0.54761678925,
+                            53.22727299482
+                        ],
+                        [
+                            -0.54764814486,
+                            53.22723232462
+                        ],
+                        [
+                            -0.54769054852,
+                            53.22724399992
+                        ],
+                        [
+                            -0.54768023364,
+                            53.22725769097
+                        ],
+                        [
+                            -0.54766398268,
+                            53.22727880577
+                        ],
+                        [
+                            -0.54764226623,
+                            53.22730659531
+                        ],
+                        [
+                            -0.54763038765,
+                            53.22732190785
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_029,r_inb0_205, r_inb0_204",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_203",
+                "level": "0",
+                "name": "INB0203",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54748609664,
+                            53.22728207769
+                        ],
+                        [
+                            -0.54731312957,
+                            53.22723380591
+                        ],
+                        [
+                            -0.54732777729,
+                            53.22721519956
+                        ],
+                        [
+                            -0.54741500824,
+                            53.22723942146
+                        ],
+                        [
+                            -0.54750059861,
+                            53.22726318780
+                        ],
+                        [
+                            -0.54748609664,
+                            53.22728207769
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_017, s_inb1_355",
+                "geometry_type": "Polygon",
+                "id": "s_inb0_357",
+                "level": "0",
+                "name": "INB0357 (Stair 04)",
+                "node_type": "Stairs"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54756251599,
+                            53.22692013971
+                        ],
+                        [
+                            -0.54760874407,
+                            53.22693298421
+                        ],
+                        [
+                            -0.54755036236,
+                            53.22700882555
+                        ],
+                        [
+                            -0.54750336440,
+                            53.22699583611
+                        ],
+                        [
+                            -0.54756251599,
+                            53.22692013971
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_014",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_302",
+                "level": "0",
+                "name": "INB0302 (Labs and Workshops)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54783305102,
+                            53.22697085153
+                        ],
+                        [
+                            -0.54789856489,
+                            53.22698921800
+                        ],
+                        [
+                            -0.54782503477,
+                            53.22708436599
+                        ],
+                        [
+                            -0.54775864633,
+                            53.22706626127
+                        ],
+                        [
+                            -0.54783305102,
+                            53.22697085153
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54685197617,
+                            53.22701139729
+                        ],
+                        [
+                            -0.54691202988,
+                            53.22702808044
+                        ],
+                        [
+                            -0.54699181676,
+                            53.22705024553
+                        ],
+                        [
+                            -0.54708259502,
+                            53.22707546406
+                        ],
+                        [
+                            -0.54716284575,
+                            53.22709775799
+                        ],
+                        [
+                            -0.54721222553,
+                            53.22711147586
+                        ],
+                        [
+                            -0.54725083301,
+                            53.22712220114
+                        ],
+                        [
+                            -0.54737319852,
+                            53.22715619466
+                        ],
+                        [
+                            -0.54746070696,
+                            53.22718050475
+                        ],
+                        [
+                            -0.54754639114,
+                            53.22720430805
+                        ],
+                        [
+                            -0.54760835974,
+                            53.22722137030
+                        ],
+                        [
+                            -0.54764814486,
+                            53.22723232462
+                        ],
+                        [
+                            -0.54769054852,
+                            53.22724399992
+                        ],
+                        [
+                            -0.54778853771,
+                            53.22727097995
+                        ],
+                        [
+                            -0.54783925509,
+                            53.22728494430
+                        ],
+                        [
+                            -0.54768590740,
+                            53.22736686154
+                        ],
+                        [
+                            -0.54753855916,
+                            53.22744557378
+                        ],
+                        [
+                            -0.54738581522,
+                            53.22740317436
+                        ],
+                        [
+                            -0.54732412232,
+                            53.22738604932
+                        ],
+                        [
+                            -0.54703776829,
+                            53.22730656161
+                        ],
+                        [
+                            -0.54669722922,
+                            53.22721203273
+                        ],
+                        [
+                            -0.54679188613,
+                            53.22708930648
+                        ],
+                        [
+                            -0.54685197617,
+                            53.22701139729
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UOL_NAV_ME": "yes",
+                "building": "INB",
+                "connected_nodes": "c_inb0_032",
+                "geometry_type": "Polygon",
+                "id": "r_inb0_268",
+                "level": "0",
+                "name": "INB0268 (Shower Room)",
+                "node_type": "Room"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.54703940974,
+                            53.22713148282
+                        ],
+                        [
+                            -0.54702040236,
+                            53.22712622458
+                        ],
+                        [
+                            -0.54694848877,
+                            53.22710633023
+                        ],
+                        [
+                            -0.54699181676,
+                            53.22705024553
+                        ],
+                        [
+                            -0.54708259502,
+                            53.22707546406
+                        ],
+                        [
+                            -0.54703940974,
+                            53.22713148282
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

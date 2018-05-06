@@ -23,8 +23,10 @@ var Data = {
   },
 
   resetItems: function() {
+    // Resets any items currently added from JSON data
     this.items = [];
     this.loadedItems = {};
+    // Not sure what this does, probably irrelevant
     HitAreas.reset();
   },
 
@@ -34,7 +36,10 @@ var Data = {
     for (var i = 0, il = geojson.length; i < il; i++) {
       item = geojson[i];
       id = item.id || [item.footprint[0], item.footprint[1], item.height, item.minHeight].join(',');
+      // If the item doesn't already exist in the loadedItems object
       if (!this.loadedItems[id]) {
+        // And if a valid respond is returned from this.scale(the_current_item)
+        // Then push these items to the cache and current item array
         if ((scaledItem = this.scale(item))) {
           scaledItem.scale = allAreNew ? 0 : 1;
           this.items.push(scaledItem);
@@ -122,19 +127,23 @@ var Data = {
     return res;
   },
 
+  // Used to set a JSON object on the map
   set: function(data) {
-    this.isStatic = true;
-    this.resetItems();
-    this._staticData = data;
-    this.addRenderItems(this._staticData, true);
+    this.isStatic = true; // Indicator that the data is static (GEOJSON)
+    this.resetItems(); // Resets the current data information
+    this._staticData = data; // _staticData variable = data (function input)
+    this.addRenderItems(this._staticData, true); // Passes in the new data, and a all is new flag
   },
 
   load: function(src, key) {
+    // Loads default source data or custom source data, irrelavent for task at hand
     this.src = src || DATA_SRC.replace('{k}', (key || 'anonymous'));
+    // Makes a request to update the current layer as new data has been loaded
     this.update();
   },
 
   update: function() {
+    // Calls resetItems function to reload data (I guess?)
     this.resetItems();
 
     if (ZOOM < MIN_ZOOM) {

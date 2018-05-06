@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+    <script src="./OSMBuildings-Leaflet.debug.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+</head>
+
+<body>
+    <div id="map" style="height:500px;width:500px;"></div>
+    <script>
+        var map = new L.Map('map').setView([53.226838, -0.547267], 17);
+        
+        //new OSMBuildings(map).load();
+        //new OSMBuildings(map).set(geoJSON);
+        var mapLayers = [];
+        let osmLayer = new OSMBuildings(map).load();
+        var mapDestination = new OSMBuildings(map);
+
+        $.getJSON("INB_Ground.json", function (data) {
+            mapLayers.push(data);
+        }).then(function(){
+            //new OSMBuildings(map).set(mapLayers[0]);
+        });
+    </script>
+</body>
+
+</html>

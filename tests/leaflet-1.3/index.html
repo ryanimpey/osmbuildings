@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+  <script src="OSMBuildings-Leaflet.js"></script>
+</head>
+<body>
+  <div id="map"></div>
+</body>
+<style>
+  #map {
+    height: 500px;
+    width: 500px;
+  }
+</style>
+<script>
+  var map = new L.Map('map').setView([52.52020, 13.37570], 17);
+  new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar'}).addTo(map);
+  new OSMBuildings(map).load();
+</script>
+</html>
